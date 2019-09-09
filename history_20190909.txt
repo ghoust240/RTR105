@@ -1,0 +1,58 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  temp
+    4  pwd
+    5  firefox
+    6  pwd
+    7  whoami
+    8  ipinfo
+    9  ls
+   10  cd 'VirtualBox VMs'
+   11  ls
+   12  cd xp
+   13  xp.exe
+   14  ls
+   15  cd XP
+   16  ls
+   17  cd
+   18  ipconfig
+   19  ifconfig
+   20  man who
+   21  uname
+   22  uname -a
+   23  echo $0
+   24  sh
+   25  ls
+   26  ls -l
+   27  ls -la
+   28  pwd
+   29  cd .
+   30  pwd
+   31  cd ..
+   32  wpd
+   33  pwdpwd
+   34  cd
+   35  cd ..
+   36  pwd
+   37  cd ..
+   38  echo $0
+   39  cd
+   40  cd ..
+   41  ls
+   42  cd lib
+   43  ls
+   44  cd netplan
+   45  ls
+   46  cd
+   47  cd ..
+   48  cd root
+   49  cd usr
+   50  ls
+   51  cd local
+   52  ls
+   53  cd games
+   54  ls
+   55  cd .
+   56  cd
+   57  history
+   58  history > history > history_20190909.txt
