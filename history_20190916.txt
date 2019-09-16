@@ -1,0 +1,97 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  su
+    4  su admin
+    5  ls
+    6  cd 'VirtualBox VMs'
+    7  ls
+    8  cdxp
+    9  cd xp
+   10  cd XP
+   11  ls
+   12  XP.dbox
+   13  XP.vbox
+   14  cd XP.vbox
+   15  firefox
+   16  LS
+   17  ls
+   18  cd 'VirtualBox VMs'
+   19  ls
+   20  cd XP
+   21  ls
+   22  wine XP.vbox
+   23  ls
+   24  XP.vbox
+   25  cd XP.vbox
+   26  wine 'XP.vbox'
+   27  firefox
+   28  ls
+   29  cd 'VirtualBox VMs'
+   30  ls
+   31  cd XP
+   32  ls
+   33  open XP.vbox
+   34  firefox
+   35  ls
+   36  cat XP.vbox
+   37  firefox
+   38  ls -l
+   39  touch
+   40  touch aaa.txt
+   41  ls -l
+   42  touch -c -t 201709151000 aaa.txt
+   43  ls -l
+   44  cat aaa.txt
+   45  echo hello
+   46  echo Hello World!
+   47  echo Hello World! > bbb.txt
+   48  ls
+   49  ls -l bbb.txt
+   50  cat bbb.txt
+   51  echo Hello world again! > bbb.txt
+   52  cat bbb.txt
+   53  echo Hello world again! >> bbb.txt
+   54  cat bbb.txt
+   55  echo Hello
+   56  men echo Hello\vWorld! >> bbb.txt
+   57  men echo
+   58  man echo Hello\vWorld! >> bbb.txt
+   59  echo -e Hello\vWorld! >> bbb.txt
+   60  echo -e Hello\vWorld! >> ccc.txt
+   61  ls
+   62  ls -l ccc.txt
+   63  echo -e "Hello\vWorld!" >> ccc.txt
+   64  cat ccc.txt
+   65  ls -l /bin/bash
+   66  ls -l /bin/ls
+   67  cat /bin/ls
+   68  virtualbox
+   69  ls
+   70  cp bbb.txt bbb2.txt
+   71  ls
+   72  cat bbb2.txt
+   73  ls -l *.txt
+   74  ls -l b*.txt
+   75  cd /
+   76  pwd
+   77  mv ~/bbb2.txt ~/Music/d10.txt
+   78  cd
+   79  ls
+   80  cd Music
+   81  cd
+   82  ls -l Music/
+   83  cat /home/user/Music/d10.txt
+   84  mv bbb1.txt e7.txt
+   85  ls
+   86  rm aaa.txt
+   87  ls
+   88  ls -l *.txt
+   89  ls -l **.txt
+   90  ls -l *.*xt*
+   91  rm *.*xt*
+   92  lv
+   93  ls
+   94  rm ./Music/d10.txt
+   95  ls ./Music
+   96  ls -l
+   97  history > history_20190916.txt
