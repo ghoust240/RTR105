@@ -95,3 +95,40 @@
    95  ls ./Music
    96  ls -l
    97  history > history_20190916.txt
+   98  ls
+   99  cat history_20190916.txt
+  100  pds
+  101  pwd
+  102  nano MansPirmaisSkripts.sh
+  103  cat MansPirmaisSkripts.sh
+  104  ls
+  105  whereis ls
+  106  ls -l /bin/ls
+  107  ./MansPirmaisSkripts.sh
+  108  pwd
+  109  echo $PATH
+  110  PATH=$PATH:~
+  111  echo $PATH
+  112  MansPirmaisSkripts.sh
+  113  whereis MansPrimaisSkripts
+  114  ls -l MansPirmaisSkripts.sh
+  115  chmod 740 MansPrimaisSkripts.sh
+  116  ls -l MansPirmaisSkripts.sh
+  117  chmod 740 MansPirmaisSkripts.sh
+  118  ls -l ManPirmaisSkripts.sh
+  119  ls
+  120  ls -l MansPirmaisSkripts.sh
+  121  nano MansPirmaisSkripts.sh
+  122  ls
+  123  MansPirmaisSkripts.sh
+  124  ls
+  125  rm log.txt
+  126  rm z100.txt
+  127  cat error.txt
+  128  rm error.txt
+  129  ls
+  130  nano MansPirmaisSkripts.sh
+  131  History > history_20190916(2).txt
+  132  History > history_20190916.txt
+  133  ls
+  134  history > history_20190916.txt
