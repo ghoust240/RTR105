@@ -17,7 +17,7 @@ touch aaa.txt : izveidot .txt failu / -c -t 201909171000 var nomainit datumu<br/
 echo "text" > aaa.txt : izveidot textu faila parakstot ja ieprieks jau bija text<br/>
 ls -l \*.txt : paradit piejamos failus tikai ar .txt extension<br/>
 mv ~/aaa.txt ~/Music/d10.txt : texta parvietosanas piemers ar faila nosaukuma mainu<br/>
-rm : komanda failu un mapes dzesanai
+rm : komanda failu un mapes dzesanai<br/>
 <br/>
 **Usefull binds:**<br/>
 Ctrl+Alt+T : bash interpritators<br/>
