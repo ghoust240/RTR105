@@ -19,3 +19,70 @@
    19  history
    20  history > history_20190923
    21  history > history_20190923.txt
+   22  ls
+   23  rm history_20190923
+   24  ls
+   25  ls -l
+   26  ./git-upload.run
+   27  git-upload.run
+   28  git-upload.sh
+   29  ls
+   30  git-upload.sh
+   31  ./git-upload.sh
+   32  ./git-upload
+   33  ./git-upload.run
+   34* 
+   35  ./git-upload 20190923_15_15
+   36  mkdir darbi
+   37  ls
+   38  cd darbi
+   39  nano elementary.c
+   40  ls
+   41  ls -l
+   42  cat elementary.c
+   43  gcc elementary.c
+   44  ls -l
+   45  nano elementary.c
+   46  cat elementary.c
+   47  gcc elementary.c -o prg1
+   48  ls -l
+   49  ./prg1
+   50  nano elementary.c
+   51  gcc elementary.c -o prg2
+   52  ls -l
+   53  nano elementary.c
+   54  gcc elementary.c -o prg3
+   55  ls -l
+   56  cp elementary.c hello.c
+   57  ls -l
+   58  nano hello.c
+   59  gcc hello.c -0 prg4
+   60  nano hello.c
+   61  gcc hello.c -0 prg5
+   62  ls -l
+   63  nano hello.c
+   64  gcc hello.c -0 prg4
+   65  ls
+   66  nano hello.c
+   67  gcc hello.c -0 prg4
+   68  ls
+   69  gcc hello.c -o prg4
+   70  ls
+   71  ./prg4
+   72  nano hello.c
+   73  gcc hello.c -o prg5
+   74  ls-l
+   75  ls -l
+   76  ./prg5
+   77  nano hello.c
+   78  gcc hello.c -o prg6
+   79  ls -l
+   80  ./prg6
+   81  ls prg*
+   82  rm prg*
+   83  ls
+   84  rm a.out
+   85  ls
+   86  cd..
+   87  cd ..
+   88  history > history_20190923.txt
