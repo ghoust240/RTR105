@@ -1,0 +1,21 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/ghoust240/RTR105
+    4  lp
+    5  cp
+    6  lsls
+    7  ls
+    8  git
+    9  ls
+   10  cd RTR105
+   11  nano git-upload
+   12  ls
+   13  cat git-upload
+   14  nano git-upload
+   15  LS
+   16  LS -L
+   17  ls -l
+   18  chmod 755 git-upload
+   19  history
+   20  history > history_20190923
+   21  history > history_20190923.txt
