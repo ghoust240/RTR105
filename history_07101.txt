@@ -1,0 +1,85 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd RTR105
+    4  cd -l
+    5  ls -l
+    6  cd darbi
+    7  ls -l
+    8  nano 02.c
+    9  ls -l
+   10  ./rezult1
+   11  touch test1.c
+   12  nano test1.c
+   13  touch try1.c
+   14  nano try1.c
+   15  gcc try1.c
+   16  ./a.out
+   17  nano try1.c
+   18  gcc try1.c\
+   19  gcc try1.c
+   20  ./a.out
+   21  nano try1.c
+   22  touch finaljob.c
+   23  nano finaljob.c
+   24  rm finaljob.c
+   25  ls -l
+   26  cp kd1.c finaljob1.c
+   27  nano finaljob1.c
+   28  gcc finaljob1.c
+   29  nano finaljob1.c
+   30  gcc finaljob1.c
+   31  ./a.out
+   32  nano finaljob1.c
+   33  gcc finaljob1.c
+   34  ./a.out
+   35  cp finaljob1.c testpla.c
+   36  nano testpla.c
+   37  gcc testpla.c
+   38  ./a.out
+   39  nano finaljob1.c
+   40  gcc finaljob1.c
+   41  ./a.out
+   42  nano finaljob1.c
+   43  gcc finaljob1.c
+   44  ./a.out
+   45  nano finaljob1.c
+   46  gcc finaljob1.c
+   47  ./a.out
+   48  nano finaljob1.c
+   49  gcc finaljob1.c
+   50  nano finaljob1.c
+   51  gcc finaljob1.c
+   52  nano finaljob1.c
+   53  gcc finaljob1.c
+   54  ./a.out
+   55  nano finaljob1.c
+   56  gcc finaljob1.c
+   57  ./a.out
+   58  nano finaljob1.c
+   59* 
+   60* 
+   61  nano finaljob1.c
+   62  gcc finaljob1.c
+   63  ./a.out
+   64  nano finaljob1.c
+   65  gcc finaljob1.c
+   66  nano finaljob1.c
+   67  gcc finaljob1.c
+   68* 
+   69  nano finaljob1.c
+   70  gcc finaljob1.c
+   71  ./a.out
+   72* 
+   73  gcc finaljob1.c
+   74  nano finaljob1.c
+   75  gcc finaljob1.c
+   76  ./a.out
+   77  nano finaljob1.c
+   78  gcc finaljob1.c
+   79  ./a.out
+   80  nano finaljob1.c
+   81  gcc finaljob1.c
+   82  ./a.out
+   83  cd ..
+   84  history history_071019
+   85  history > history_07101.txt
